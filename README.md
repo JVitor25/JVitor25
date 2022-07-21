@@ -3,7 +3,7 @@
 
 ![João Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvitor25&show_icons=true&theme=radical)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvitor25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvitor25&layout=compact)](https://github.com/jvitor25/github-readme-stats)
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-lima25/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao3062/)
